@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Task 2 Exercise 2.4
-public class countMoney {
+public class CountMoney {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter how many quarters you have:");

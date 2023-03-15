@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //Task 2 Exercise 2.3
-public class great {
+public class Great {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your name:");

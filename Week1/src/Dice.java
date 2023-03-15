@@ -1,7 +1,7 @@
 import java.util.Random;
 
 //Task 2 exercise 2.2
-public class dice {
+public class Dice {
     public static void main(String[] args) {
         Random rd = new Random();
         int a = rd.nextInt(6);
