@@ -1,6 +1,5 @@
-import java.util.Random;
-
 //Task 2 exercise 2.2
+import java.util.Random;
 public class Dice {
     public static void main(String[] args) {
         Random rd = new Random();

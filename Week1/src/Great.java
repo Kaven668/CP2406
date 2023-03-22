@@ -1,5 +1,5 @@
-import java.util.Scanner;
 //Task 2 Exercise 2.3
+import java.util.Scanner;
 public class Great {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
